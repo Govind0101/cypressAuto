@@ -1,0 +1,18 @@
+{
+  "name": "cypressauto",
+  "version": "1.0.0",
+  "description": "SDET test",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+
+  "devDependencies": {
+    "cypress": "^13.3.1"
+  },
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
